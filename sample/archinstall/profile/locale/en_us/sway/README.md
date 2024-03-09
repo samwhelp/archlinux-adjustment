@@ -14,3 +14,11 @@ load remote config and run archinstall
 ``` sh
 bash <(curl -L https://raw.githubusercontent.com/samwhelp/archlinux-adjustment/main/sample/archinstall/profile/locale/en_us/sway/start-remote.sh)
 ```
+
+
+## Config
+
+| Config |
+| ------ |
+| [demo-config.json](demo-config.json) |
+| [demo-permit.json](demo-permit.json) |

@@ -12,7 +12,7 @@
 load remote config and run archinstall
 
 ``` sh
-bash <(curl -L https://raw.githubusercontent.com/samwhelp/archlinux-adjustment/main/sample/archinstall/profile/locale/en_us/xfce/start-remote.sh)
+bash <(curl -L https://raw.githubusercontent.com/samwhelp/archlinux-adjustment/main/sample/archinstall/profile/locale/en_us/i3wm/start-remote.sh)
 ```
 
 
