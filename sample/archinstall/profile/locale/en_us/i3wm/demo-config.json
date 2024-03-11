@@ -106,7 +106,7 @@
     "ntp": true,
     "offline": false,
     "packages": [
-        "noto-fonts-cjk",
+        "wget",
         "firefox",
         "vim",
         "git",
