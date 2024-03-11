@@ -89,13 +89,11 @@
         "custom_mirrors": [],
         "mirror_regions": {
             "Taiwan": [
-                "https://ncuesaweb.ncue.edu.tw/linux/archlinux/$repo/os/$arch",
                 "https://mirror.archlinux.tw/ArchLinux/$repo/os/$arch",
                 "https://free.nchc.org.tw/arch/$repo/os/$arch",
                 "http://mirror.archlinux.tw/ArchLinux/$repo/os/$arch",
                 "http://ftp.tku.edu.tw/Linux/ArchLinux/$repo/os/$arch",
-                "http://free.nchc.org.tw/arch/$repo/os/$arch",
-                "http://archlinux.ccns.ncku.edu.tw/archlinux/$repo/os/$arch"
+                "http://free.nchc.org.tw/arch/$repo/os/$arch"
             ]
         }
     },
