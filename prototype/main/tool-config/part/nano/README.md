@@ -1,6 +1,6 @@
 
 
-# Featherpad
+# Nano
 
 * [Config File Path](#config-file-path)
 * [Arch Package](#arch-package)
@@ -13,9 +13,7 @@
 
 | Config File Path |
 | ---------------- |
-| [~/.config/featherpad/fp.conf](./asset/overlay/etc/skel/.config/featherpad/fp.conf) |
-| [~/.config/featherpad/fp_dark_syntax_colors.conf](./asset/overlay/etc/skel/.config/featherpad/fp_dark_syntax_colors.conf) |
-| [~/.config/featherpad/fp_light_syntax_colors.conf](./asset/overlay/etc/skel/.config/featherpad/fp_light_syntax_colors.conf) |
+| [~/.config/nano/nanorc](./asset/overlay/etc/skel/.config/nano/nanorc) |
 
 
 
@@ -24,7 +22,7 @@
 
 | Arch Package |
 | ------------ |
-| [featherpad](https://archlinux.org/packages/extra/x86_64/featherpad/) |
+| [nano](https://archlinux.org/packages/core/x86_64/nano/) |
 
 
 
@@ -74,6 +72,21 @@ or run
 
 ``` sh
 make asset-install
+```
+
+
+### prototype-install
+
+run
+
+``` sh
+./prototype-install.sh
+```
+
+or run
+
+``` sh
+make prototype-install
 ```
 
 

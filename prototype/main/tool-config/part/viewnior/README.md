@@ -12,7 +12,7 @@
 ## Config File Path
 
 | Config File Path |
-| --- |
+| ---------------- |
 | [~/.config/viewnior/viewnior.conf](./asset/overlay/etc/skel/.config/viewnior/viewnior.conf) |
 
 
@@ -21,7 +21,7 @@
 ## Arch Package
 
 | Arch Package |
-| --- |
+| ------------ |
 | [viewnior](https://archlinux.org/packages/extra/x86_64/viewnior/) |
 
 

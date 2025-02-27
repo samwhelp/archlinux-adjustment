@@ -12,7 +12,7 @@
 ## Config File Path
 
 | Config File Path |
-| --- |
+| ---------------- |
 | [~/.config/sakura/sakura.conf](./asset/overlay/etc/skel/.config/sakura/sakura.conf) |
 
 
@@ -21,7 +21,7 @@
 ## Arch Package
 
 | Arch Package |
-| --- |
+| ------------ |
 | [sakura](https://archlinux.org/packages/extra/x86_64/sakura/) |
 
 

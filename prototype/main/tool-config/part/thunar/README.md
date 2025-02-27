@@ -12,7 +12,7 @@
 ## Config File Path
 
 | Config File Path |
-| --- |
+| ---------------- |
 | [~/.config/xfce4/xfconf/xfce-perchannel-xml/thunar.xml](./asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/thunar.xml) |
 | [~/.config/Thunar/uca.xml](./asset/overlay/etc/skel/.config/Thunar/uca.xml) |
 | [~/.config/Thunar/accels.scm](./asset/overlay/etc/skel/.config/Thunar/accels.scm) |
@@ -23,7 +23,7 @@
 ## Arch Package
 
 | Arch Package |
-| --- |
+| ------------ |
 | [thunar](https://archlinux.org/packages/extra/x86_64/thunar/) |
 
 
