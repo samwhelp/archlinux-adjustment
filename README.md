@@ -36,5 +36,5 @@
 
 | Script |
 | ------ |
-| [Linux Mint Config](https://github.com/samwhelp/linuxmint-adjustment/tree/main/prototype/main) |
+| [Arch Linux Config](https://github.com/samwhelp/archlinux-adjustment/tree/main/prototype/main) |
 | [Tool Config](https://github.com/samwhelp/archlinux-adjustment/tree/main/prototype/main/tool-config/part) |
