@@ -22,6 +22,7 @@
 | ---- | ------ |
 | [Archlinux Xfce Adjustment](https://samwhelp.github.io/archlinux-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/archlinux-xfce-adjustment) |
 | [Archlinux Lxqt Adjustment](https://samwhelp.github.io/archlinux-lxqt-adjustment/) | [GitHub](https://github.com/samwhelp/archlinux-lxqt-adjustment) |
+| [Archlinux Lxde Adjustment](https://samwhelp.github.io/archlinux-lxde-adjustment/) | [GitHub](https://github.com/samwhelp/archlinux-lxde-adjustment) |
 | [Archlinux Kde Plasma Adjustment](https://samwhelp.github.io/archlinux-kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/archlinux-kde-plasma-adjustment) |
 
 
