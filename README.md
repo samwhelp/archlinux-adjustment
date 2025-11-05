@@ -10,6 +10,7 @@
 | Link | GitHub |
 | ---- | ------ |
 | [ArchLinux Adjustment](https://samwhelp.github.io/archlinux-adjustment/) | [GitHub](https://github.com/samwhelp/archlinux-adjustment) |
+| [Archlinux Note](https://samwhelp.github.io/note-about-archlinux/) | [GitHub](https://github.com/samwhelp/note-about-archlinux) |
 
 
 
