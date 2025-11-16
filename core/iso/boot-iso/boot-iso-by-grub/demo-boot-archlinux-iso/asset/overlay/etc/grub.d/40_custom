@@ -23,7 +23,7 @@ menuentry "Archlinux ISO / Latest" --class archlinux {
 	#set boot_option="quiet splash"
 
 
-	linux (loop)/arch/boot/x86_64/vmlinuz-linux img_dev=${img_dev} img_loop=${iso_file} ${boot_option}
+	linux (loop)/arch/boot/x86_64/vmlinuz-linux img_dev=${img_dev} img_loop=${iso_file} archisobasedir=arch ${boot_option}
 	initrd (loop)/arch/boot/x86_64/initramfs-linux.img
 
 }
