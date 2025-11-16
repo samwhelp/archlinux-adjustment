@@ -1,0 +1,9 @@
+https://mirrors.edge.kernel.org/archlinux/iso/2025.11.01/archlinux-2025.11.01-x86_64.iso
+
+
+
+
+https://mirrors.edge.kernel.org/archlinux/iso/2025.11.01/archlinux-2025.11.01-x86_64.iso.sig
+
+https://mirrors.edge.kernel.org/archlinux/iso/2025.11.01/sha256sums.txt
+https://mirrors.edge.kernel.org/archlinux/iso/2025.11.01/b2sums.txt
