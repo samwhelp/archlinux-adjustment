@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
 
-sudo cp mirrorlist /etc/pacman.d/mirrorlist
+sudo install -Dm644 mirrorlist /etc/pacman.d/mirrorlist
