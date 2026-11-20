@@ -1,0 +1,6 @@
+schema_version = 1
+
+[browser]
+show_hidden = true
+terminal_command = "xfce4-terminal"
+view_mode = "list"
